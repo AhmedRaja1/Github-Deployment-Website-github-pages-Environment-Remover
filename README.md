@@ -7,6 +7,8 @@ https://stackblitz.com/edit/github-deployment-clearer?file=index.js
 
 # Just put the parameters and you will be able to remove your deployments.
 
+# You can get your parameters from the links below:
+
 # 1- Token 
 <p>https://github.com/settings/tokens</p>
 
