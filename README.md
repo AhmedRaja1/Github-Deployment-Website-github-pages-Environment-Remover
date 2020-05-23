@@ -20,5 +20,6 @@ https://stackblitz.com/edit/github-deployment-clearer?file=index.js
 Eg: My-Repository
 
 # 3- GitHub Username:
+Eg: John Doe
 
 
