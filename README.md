@@ -11,5 +11,6 @@ https://stackblitz.com/edit/github-deployment-clearer?file=index.js
 
 # 1- Token 
 <p>https://github.com/settings/tokens</p>
+# 2- Repository Name
 
 
